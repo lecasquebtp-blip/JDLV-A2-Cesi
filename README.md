@@ -1,20 +1,13 @@
-\## Conception
+## Conception
 
+### Diagramme de classes
 
+![Diagramme de classes](docs/images/diagramme_classes.png)
 
-\### Diagramme de classes
+### Diagramme d'activité
 
-!\[Diagramme de classes](docs/images/diagramme\_classes.png)
+![Diagramme d'activité](docs/images/diagramme_activite.png)
 
+### Diagramme de séquence
 
-
-\### Diagramme d'activité
-
-!\[Diagramme d'activité](docs/images/diagramme\_activite.png)
-
-
-
-\### Diagramme de séquence
-
-
-
+(à venir)
