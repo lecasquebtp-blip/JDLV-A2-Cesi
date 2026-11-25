@@ -10,4 +10,4 @@
 
 ### Diagramme de séquence
 
-(à venir)
+![Diagramme de séquence](docs/diagramme_de_sequence.png)
